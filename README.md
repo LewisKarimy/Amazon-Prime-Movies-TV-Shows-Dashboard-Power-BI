@@ -48,14 +48,6 @@ This dashboard was designed to solve these problems by **translating data into i
 
 ---
 
-## 📂 Dataset
-
-* 📘 [Kaggle Dataset](https://www.kaggle.com/datasets/shivamb/amazon-prime-movies-and-tv-shows)
-* 💾 [GitHub Dataset](https://github.com/DataScienceRoadMap/Amazon-Prime-Dataset)
-* 🎨 [Project Logo](https://github.com/DataScienceRoadMap/logo.png)
-
----
-
 ## 💡 Key Insights
 
 * 🎬 **Dramas** and **Comedies** dominate the content catalog
@@ -94,7 +86,3 @@ This project enhanced my ability to:
 * Use **data visualization to support decision-making**
 * Strengthen my **data analytics portfolio** with practical, real-world projects
 
----
-
-
-Would you like me to **add a “Project Folder Structure” and “How to Use” section** (so others can download and open your Power BI file easily on GitHub)? It makes your README look even more professional and collaboration-ready.
