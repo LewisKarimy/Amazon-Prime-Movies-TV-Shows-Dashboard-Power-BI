@@ -56,15 +56,6 @@ This dashboard was designed to solve these problems by **translating data into i
 
 ---
 
-## 📈 Dashboard Preview
-
-> 🖼️ *Here’s a snapshot of the final Power BI dashboard:*
-
-![Dashboard Preview](https://github.com/DataScienceRoadMap/PowerBI-AmazonPrime/blob/main/dashboard-preview.png)
-*(Replace with your actual image path once uploaded)*
-
----
-
 ## 💡 Key Insights
 
 * 🎬 **Dramas** and **Comedies** dominate the content catalog
@@ -93,15 +84,6 @@ This dashboard was designed to solve these problems by **translating data into i
 * DAX Calculations & Measures
 * Insight Communication & Data Storytelling
 * Business Analysis & Critical Thinking
-
----
-
-## 📺 Watch the Tutorial
-
-▶️ **Video:** [Create an Amazing Power BI Dashboard in 19 Minutes | Amazon Prime Movies and TV Shows](#)
-*(Add your YouTube or tutorial link here)*
-
----
 
 ## 🧠 Learning Outcomes
 
